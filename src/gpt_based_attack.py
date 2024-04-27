@@ -3,7 +3,7 @@ import sys
 import openai
 from openai import OpenAI
 from typing import List, Optional
-OPENAI_API_KEY=''
+OPENAI_API_KEY='' # change to your API
 
 
 def read_problems(path):
