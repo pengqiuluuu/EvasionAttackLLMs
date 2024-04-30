@@ -73,7 +73,7 @@ def query(payload, headers, API_URL):
 
 
 if __name__ == '__main__':
-    path = 'attack/result/imdb_test_Openai_attacked.txt'
+    path = 'data/attack_files/imdb_test_Openai_attacked.txt'
     data, prompt, label = read_problems(path)
 
     API_URL = "https://api-inference.huggingface.co/models/meta-llama/Meta-Llama-3-8B-Instruct"
