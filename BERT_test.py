@@ -62,7 +62,7 @@ def predict_matrix(output, labels):
 
 
 if __name__ == '__main__':
-    path = 'attack/result/imdb_test_Openai_attacked.txt'
+    path = 'data/attack_files/imdb_test_Openai_attacked.txt'
     data, prompt, label = read_problems(path)
 
     # Load the pre-trained BERT model and tokenizer
