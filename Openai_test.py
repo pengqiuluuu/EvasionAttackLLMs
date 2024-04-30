@@ -78,7 +78,7 @@ def predict_matrix(output, labels):
 
 
 if __name__ == '__main__':
-    path = 'attack/result/imdb_test_Openai_attacked.txt'
+    path = 'data/attack_files/imdb_test_Openai_attacked.txt'
     data, prompts, labels = read_problems(path)
 
     name = 'GPT-3.5-turbo'
