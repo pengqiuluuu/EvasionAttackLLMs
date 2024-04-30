@@ -1,4 +1,4 @@
-# EvasionAttackLLMs
+# Evasion Attack on LLMs
 A project that demonstrates Evasion Attack on LLMs
 
 ## Attack Methods
