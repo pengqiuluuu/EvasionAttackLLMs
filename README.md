@@ -18,3 +18,7 @@ The project specifically targets the following large language models as potentia
 - Dataset: [IMDb dataset](https://huggingface.co/datasets/stanfordnlp/imdb)
 - labels: Either positive or negative
 - Size: For this experiment, we only take a subset of 1000 reviews to demonstrate and generate our adversarial examples 
+
+## Project Presentation
+- Youtube：https://youtu.be/EH1s5jgB8Qc
+- Slides: [Link](https://docs.google.com/presentation/d/1nizdzbujQit8zoSiRoU-ZDNBRCoH4meS/edit?usp=sharing&ouid=104701225868345278149&rtpof=true&sd=true)
